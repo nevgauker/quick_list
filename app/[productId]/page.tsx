@@ -100,7 +100,7 @@ export default function Product() {
                     שם המוצר - קצר וקל להבנה
                     </AccordionContent>
                 </AccordionItem>
-                  <AccordionItem value="name">
+                  <AccordionItem value="amount">
                     <AccordionTrigger>כמות</AccordionTrigger>
                     <AccordionContent>
                     הכמות הזמינה כעת
