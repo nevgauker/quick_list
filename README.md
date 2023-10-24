@@ -1,8 +1,8 @@
-This is a real-time simple invenroy mangmengt system that allow organization without logistical support maintaine eevrything that comes in annd out.
+This is a real-time simple invenroy management system that allow organization without logistical support in order to maintain everything that comes in and out.
 
-Technologiers : Next.js (Typescript) , tailwindcss and shadcn/ui , socket.io, Redis
+Technologies : Next.js (Typescript) , tailwindcss and shadcn/ui , socket.io, Redis
 My redis db stored here : https://upstash.com/
-but feel free to use any servise you like
+but feel free to use any service you like
 
 running socket io server is required. here's one:
 https://github.com/nevgauker/simple_socket_server
