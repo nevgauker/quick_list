@@ -26,7 +26,7 @@ export default function Guests() {
               </div>
       <div className='flex flex-col space-x-2 border-spacing-1 space-y-4 '>
         {data.map((product) => (
-          <ProductRow key={product.id} product={product} goTo={() => goToProduct(product.id.toString())} deleteProduct={()=>{} } isGuest={true} />
+          <ProductRow key={product.id} product={product} goTo={() => goToProduct(product.id.toString())} tappedDeleteProduct={()=>{}} isGuest={true} />
         ))}        
       </div>
       </main>
